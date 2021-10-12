@@ -1,0 +1,10 @@
+C:\Users\root\source\repos\Project_1-Coders\Project_1-Coders\bin\Debug\Project_1-Coders.exe.config
+C:\Users\root\source\repos\Project_1-Coders\Project_1-Coders\bin\Debug\Project_1-Coders.exe
+C:\Users\root\source\repos\Project_1-Coders\Project_1-Coders\bin\Debug\Project_1-Coders.pdb
+C:\Users\root\source\repos\Project_1-Coders\Project_1-Coders\obj\Debug\Project_1-Coders.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Project_1-Coders\Project_1-Coders\obj\Debug\Project_1_Coders.Form1.resources
+C:\Users\root\source\repos\Project_1-Coders\Project_1-Coders\obj\Debug\Project_1_Coders.Properties.Resources.resources
+C:\Users\root\source\repos\Project_1-Coders\Project_1-Coders\obj\Debug\Project_1-Coders.csproj.GenerateResource.cache
+C:\Users\root\source\repos\Project_1-Coders\Project_1-Coders\obj\Debug\Project_1-Coders.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Project_1-Coders\Project_1-Coders\obj\Debug\Project_1-Coders.exe
+C:\Users\root\source\repos\Project_1-Coders\Project_1-Coders\obj\Debug\Project_1-Coders.pdb
